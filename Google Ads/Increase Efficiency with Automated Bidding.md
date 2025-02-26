@@ -18,4 +18,7 @@ Google Ads automated bidding helps solve this challenge by automatically setting
 
 **Time saved:** Cross-referencing audience data with context to establish intent and set the appropriate bid is a complex and time-consuming task. Automation offers a way to alleviate this strain on marketing resources.
 
-**Auction-time bidding:** 
+**Auction-time bidding:** Our bidding algorithms tailor bids to each user's unique context, using relevant signals present at auction time. This is a unique capability in the market, as it allows for bid differentiation, with a high degree of precision based on the conversion opportunity of each auction.
+
+**Depths of signals used and cross analysis:** Our algorithms integrate a large variety of signals and consider new ones to evaluate user intent. They also go a step beyond traditional signal analysis by recognizing and adjusting for meaningful interactions between combinations of signals while constantly considering new ones.
+
